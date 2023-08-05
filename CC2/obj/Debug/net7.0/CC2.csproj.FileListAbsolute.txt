@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\29.07.23\CC2\bin\Debug\net7.0\CC2.exe
+C:\Users\user\Desktop\29.07.23\CC2\bin\Debug\net7.0\CC2.deps.json
+C:\Users\user\Desktop\29.07.23\CC2\bin\Debug\net7.0\CC2.runtimeconfig.json
+C:\Users\user\Desktop\29.07.23\CC2\bin\Debug\net7.0\CC2.dll
+C:\Users\user\Desktop\29.07.23\CC2\bin\Debug\net7.0\CC2.pdb
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.AssemblyInfo.cs
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.dll
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\refint\CC2.dll
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.pdb
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\CC2.genruntimeconfig.cache
+C:\Users\user\Desktop\29.07.23\CC2\obj\Debug\net7.0\ref\CC2.dll
